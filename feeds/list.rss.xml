@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rss version="2.0">
+ <channel>
+  <title>My Blog: Posts tagged 'list'</title>
+  <description>My Blog: Posts tagged 'list'</description>
+  <link>http://www.example.com/tags/list.html</link>
+  <lastBuildDate>Tue, 28 Sep 2021 03:37:39 UT</lastBuildDate>
+  <pubDate>Tue, 28 Sep 2021 03:37:39 UT</pubDate>
+  <ttl>1800</ttl>
+  <item>
+   <title>TODO</title>
+   <link>http://www.example.com/2021/09/todo.html?utm_source=list&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-www-example-com:-2021-09-todo-html</guid>
+   <pubDate>Tue, 28 Sep 2021 03:37:39 UT</pubDate>
+   <author>NickName</author>
+   <description>
+&lt;p&gt;just my TODO&lt;/p&gt;&lt;a href="http://www.example.com/2021/09/todo.html?utm_source=list&amp;amp;utm_medium=RSS"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</description></item></channel></rss>
