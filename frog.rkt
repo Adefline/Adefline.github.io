@@ -1,4 +1,3 @@
-
 #lang frog/config
 
 ;; Called early when Frog launches. Use this to set parameters defined
@@ -6,7 +5,7 @@
 (define/contract (init)
   (-> any)
   (current-scheme/host "http://www.example.com")
-  (current-title "My Blog")
+  (current-title "Adefline's blog")
   (current-author "NickName"))
 
 ;; Called once per post and non-post page, on the contents.
