@@ -3,15 +3,15 @@
   <head>
 
     <meta charset="utf-8">
-    <title>使用frog搭建博客</title>
-    <meta name="description" content="新博客惯例第一篇文章：如何搭建博客...">
+    <title>test</title>
+    <meta name="description" content="public...">
     <meta name="author"      content="NickName">
     <meta name="keywords"    content="">
     <meta name="viewport"    content="width=device-width, initial-scale=1.0">
     <link rel="icon"      href="/favicon.ico">
-    <link rel="canonical" href="http://www.example.com/2021/09/%E4%BD%BF%E7%94%A8frog%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html">
-    <link rel="next" href="/2021/09/todo.html">
-    <link rel="prev" href="/2021/09/test.html">
+    <link rel="canonical" href="http://www.example.com/2021/09/test.html">
+    <link rel="next" href="/2021/09/%E4%BD%BF%E7%94%A8frog%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html">
+
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/css/pygments.css">
@@ -91,45 +91,16 @@
 
           <article>
   <header>
-    <h1>使用frog搭建博客</h1>
+    <h1>test</h1>
     <p class='date-and-tags'>
 <time datetime="2021-09-28" pubdate="true">2021-09-28</time> :: <span class="tags"></span></p>
     <p class='authors'>By: <span class="authors">NickName</span></p>
   </header>
 
-<p>新博客惯例第一篇文章：如何搭建博客</p>
+<p>public</p>
 <!-- more-->
 
-<p>我的这个博客使用的是github pages+Frog搭建的。使用github pages可以省去服务器及域名的钱。</p>
-
-<p>Frog是一个基于racket的静态博客生成程序，可以使用MarkDown及Scribble等语法来写文本。 其实和Hexo等搭建github的方式区别不大，使用本地程序将markdown等转换成适合的html文件，然后使用git同步到github pages.关于如何设置github和git同步等已经有很多教程了，这里就只写(翻译)一下使用Frog的方法 Frog使用raco安装即可</p>
-
-<pre><code>raco pkg install frog frog</code></pre>
-
-<p>使用的是Pyhments来进行语法高亮，使用的是和github相似的语法来标记使用的语言。因此需要安装Pygments</p>
-
-<pre><code>python3 -m pip install pygments</code></pre>
-
-<p>然后更新一下Frog</p>
-
-<pre><code>raco pkg update --update-deps frog</code></pre>
-
-<p>创建一个文件夹来部署Frog</p>
-
-<pre><code>mkdir frog-project
-cd frog-project
-raco frog --init</code></pre>
-
-<p>对该文件夹初始化完成，已经可以使用了 只要将其同步到github就可以了 在发布到网上之前，可以在本地临时部署一下检查情况</p>
-
-<pre><code>raco frog -bp</code></pre>
-
-<p>发布新博客文章可以使用</p>
-
-<div class="brush: raco frog -n &quot;title&quot;">
- <pre><code></code></pre></div>
-
-<p>会在’/frog-project/_src/posts/’目录创建一个带时间前缀的md文件。 在md中写好文章之后使用’raco frog -b’可以生成对应的html文件，然后手动同步即可。</p>
+<p>public git test</p>
   <footer>
     <script type="text/javascript">
       !function(d,s,id){
@@ -144,11 +115,11 @@ raco frog --init</code></pre>
     </script>
     <a href="https://twitter.com/share"
        class="twitter-share-button"
-       data-url="http://www.example.com/2021/09/%E4%BD%BF%E7%94%A8frog%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html"
+       data-url="http://www.example.com/2021/09/test.html"
        data-dnt="true">
       "Tweet"</a>
     <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-    <g:plusone size="medium" href="http://www.example.com/2021/09/%E4%BD%BF%E7%94%A8frog%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html"></g:plusone>
+    <g:plusone size="medium" href="http://www.example.com/2021/09/test.html"></g:plusone>
     <div id="disqus_thread"></div>
     <script type="text/javascript">
       var disqus_config = function () {
@@ -175,17 +146,12 @@ raco frog --init</code></pre>
       <nav aria-label="Page Navigation">
         <ul class="pagination">
           <li class="page-item">
-            <a class="page-link" href="/2021/09/todo.html"
+            <a class="page-link" href="/2021/09/%E4%BD%BF%E7%94%A8frog%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html"
                aria-label="Previous">
-              <span aria-hidden="true">&larr; TODO</span>
+              <span aria-hidden="true">&larr; 使用frog搭建博客</span>
             </a>
           </li>
-          <li class="page-item">
-            <a class="page-link" href="/2021/09/test.html"
-               aria-label="Next">
-              <span aria-hidden="true">test &rarr;</span>
-            </a>
-          </li>
+
         </ul>
       </nav>
     </div>
