@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">Adefline's blog: Posts tagged 'translate'</title>
+ <link rel="self" href="http://www.example.com/feeds/translate.atom.xml" />
+ <link href="http://www.example.com/tags/translate.html" />
+ <id>urn:http-www-example-com:-tags-translate-html</id>
+ <updated>2021-09-29T11:58:10Z</updated>
+ <entry>
+  <title type="text">用软件构建社区</title>
+  <link rel="alternate" href="http://www.example.com/2021/09/%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%9E%84%E5%BB%BA%E7%A4%BE%E5%8C%BA.html?utm_source=translate&amp;utm_medium=Atom" />
+  <id>urn:http-www-example-com:-2021-09-E7-94-A8-E8-BD-AF-E4-BB-B6-E6-9E-84-E5-BB-BA-E7-A4-BE-E5-8C-BA-html</id>
+  <published>2021-09-29T11:58:10Z</published>
+  <updated>2021-09-29T11:58:10Z</updated>
+  <author>
+   <name>NickName</name></author>
+  <content type="html">
+&lt;p&gt;翻译的《乔尔谈软件》的一篇关于他们的论坛的谈话&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.joelonsoftware.com/2003/03/03/building-communities-with-software/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;a href="http://www.example.com/2021/09/%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%9E%84%E5%BB%BA%E7%A4%BE%E5%8C%BA.html?utm_source=translate&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>
