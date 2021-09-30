@@ -1,4 +1,5 @@
 http://www.example.com/2021/09/%E4%BD%BF%E7%94%A8shell%E7%9A%84%E6%8A%80%E5%B7%A7.html
+http://www.example.com/2021/09/ski%E6%96%87%E6%98%8E%E7%9A%84%E8%A1%B0%E8%90%BD.html
 http://www.example.com/2021/09/todo.html
 http://www.example.com/2021/09/%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%9E%84%E5%BB%BA%E7%A4%BE%E5%8C%BA.html
 http://www.example.com/2021/09/%E4%BD%BF%E7%94%A8frog%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html
