@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">Adefline's blog: Posts tagged 'idear'</title>
+ <link rel="self" href="http://www.example.com/feeds/idear.atom.xml" />
+ <link href="http://www.example.com/tags/idear.html" />
+ <id>urn:http-www-example-com:-tags-idear-html</id>
+ <updated>2021-09-30T02:22:08Z</updated>
+ <entry>
+  <title type="text">移动端脑洞</title>
+  <link rel="alternate" href="http://www.example.com/2021/09/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%84%91%E6%B4%9E.html?utm_source=idear&amp;utm_medium=Atom" />
+  <id>urn:http-www-example-com:-2021-09-E7-A7-BB-E5-8A-A8-E7-AB-AF-E8-84-91-E6-B4-9E-html</id>
+  <published>2021-09-30T02:22:08Z</published>
+  <updated>2021-09-30T02:22:08Z</updated>
+  <author>
+   <name>NickName</name></author>
+  <content type="html">
+&lt;p&gt;关于移动端的一个脑洞&lt;/p&gt;&lt;a href="http://www.example.com/2021/09/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%84%91%E6%B4%9E.html?utm_source=idear&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>
