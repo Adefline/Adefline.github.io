@@ -4,7 +4,17 @@
  <link rel="self" href="http://www.example.com/feeds/all.atom.xml" />
  <link href="http://www.example.com/index.html" />
  <id>urn:http-www-example-com:-index-html</id>
- <updated>2021-09-30T02:27:37Z</updated>
+ <updated>2021-10-23T13:47:15Z</updated>
+ <entry>
+  <title type="text">CLI连接wifi</title>
+  <link rel="alternate" href="http://www.example.com/2021/10/cli%E8%BF%9E%E6%8E%A5wifi.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-www-example-com:-2021-10-cli-E8-BF-9E-E6-8E-A5wifi-html</id>
+  <published>2021-10-23T13:47:15Z</published>
+  <updated>2021-10-23T13:47:15Z</updated>
+  <author>
+   <name>NickName</name></author>
+  <content type="html">
+&lt;p&gt;linux系在命令行连接wifi的教程根据环境不同有很大区别，本机使用Ddebian11，安装ip命令。&lt;/p&gt;&lt;a href="http://www.example.com/2021/10/cli%E8%BF%9E%E6%8E%A5wifi.html?utm_source=all&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry>
  <entry>
   <title type="text">脑洞</title>
   <link rel="alternate" href="http://www.example.com/2021/09/%E8%84%91%E6%B4%9E.html?utm_source=all&amp;utm_medium=Atom" />
