@@ -1,6 +1,7 @@
 http://www.example.com/2021/10/cli%E8%BF%9E%E6%8E%A5wifi.html
 http://www.example.com/2021/09/%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%9E%84%E5%BB%BA%E7%A4%BE%E5%8C%BA.html
 http://www.example.com/2021/09/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%84%91%E6%B4%9E.html
+http://www.example.com/2021/10/%E5%8A%A8%E6%BC%AB%E5%A9%86%E7%BD%97%E9%97%A8%E6%B6%88%E4%BA%A1%E5%8F%B2.html
 http://www.example.com/2021/09/todo.html
 http://www.example.com/2021/09/ski%E6%96%87%E6%98%8E%E7%9A%84%E8%A1%B0%E8%90%BD.html
 http://www.example.com/2021/09/%E4%BD%BF%E7%94%A8shell%E7%9A%84%E6%8A%80%E5%B7%A7.html
